@@ -29,7 +29,7 @@ import java.sql.*;
 // Create offer class
 class offerNew {
 	
-	// Define class properties jwz
+	// Define class properties
 	String name;
 	String street;
 	String housenr;
